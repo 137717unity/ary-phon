@@ -1,9 +1,10 @@
-
 <p align="center">
   <a href="https://github.com/actions/javascript-action/actions"><img alt="javscript-action status" src="https://github.com/actions/javascript-action/workflows/units-test/badge.svg"></a>
 </p>
 
 # Create a JavaScript Action
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F137717unity%2Fary-phon.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2F137717unity%2Fary-phon?ref=badge_shield)
+
 
 Use this template to bootstrap the creation of a JavaScript action.:rocket:
 
@@ -112,3 +113,7 @@ with:
 ```
 
 See the [actions tab](https://github.com/actions/javascript-action/actions) for runs of this action! :rocket:
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F137717unity%2Fary-phon.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2F137717unity%2Fary-phon?ref=badge_large)
